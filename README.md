@@ -10,7 +10,7 @@ https://www.kaggle.com/competitions/challenges-in-representation-learning-facial
 ```
 **Step 3. Download pre-trained models from this link**
 ```
-https://www.dropbox.com/sh/xaxnzhzuyacmuf8/AADR7qY-QHv1vfRTGOOwi5Yea?dl=0
+https://1drv.ms/u/s!AmeTT2EpSz40hFjOlVmzrTr7h_8N?e=kLQcpv
 ```
 **Step 4. Set the correct paths in the following files**
 ```
